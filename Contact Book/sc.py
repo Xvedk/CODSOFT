@@ -1,4 +1,4 @@
-contacts = {}  # Dictionary to store contacts
+contacts = {}  
 
 def add_contact():
     name = input("Enter contact name: ")
